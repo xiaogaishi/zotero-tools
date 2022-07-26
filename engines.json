@@ -195,4 +195,18 @@
 		},
 		"_iconSourceURI": "http://www.usf.edu/favicon.ico"
 	}
+	{
+        "name": "CNKI搜索",
+        "alias": "CNKI",
+        "icon": "http://cnki.net/favicon.ico",
+        "_urlTemplate": "http://kns.cnki.net/kns/brief/default_result.aspx?txt_1_sel=SU%24%=%7C&txt_1_value1={z:title}&txt_1_special1=%&txt_extension=&currentid=txt_1_value1&dbJson=coreJson&dbPrefix=SCDB&db_opt=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD&singleDB=SCDB&db_codes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD&singleDBName=againConfigJson=false&action=scdbsearch&ua=1.11",
+        "description": "CNKI搜索",
+        "hidden": false,
+        "_urlParams": [],
+        "_urlNamespaces": {
+            "z": "http://www.zotero.org/namespaces/openSearch#",
+            "": "http://a9.com/-/spec/opensearch/1.1/"
+        },
+        "_iconSourceURI": "http://cnki.net/favicon.ico"
+    }
 ]
